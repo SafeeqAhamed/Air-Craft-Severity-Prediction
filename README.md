@@ -1,7 +1,5 @@
-# Air-Craft-Severity-Prediction
+# Hybrid Ensemble Models for Aircraft Accident Severity Classification
 
-
-"Hybrid Ensemble Models for Aircraft Accident Severity Classification"
 Aircraft accident analysis plays a crucial role in improving aviation safety by identifying factors that contribute to varying levels of severity. This project presents a comprehensive machine learning framework to classify aircraft accident severity using a variety of models, ranging from traditional classifiers to advanced hybrid ensemble techniques.
 
 The dataset, preprocessed and visualized with extensive exploratory data analysis (EDA), was used to evaluate the performance of multiple supervised learning models including Ordinal Logistic Regression (OLR), K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Decision Tree, Naïve Bayes, Random Forest, AdaBoost, and XGBoost.
